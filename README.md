@@ -3,4 +3,4 @@ GameOfLIfe
 
 Conway's Game of Life
 
-![Preview](overlinden.github.com/GameOfLife/preview.png)
+![Preview](https://github.com/overlinden/GameOfLIfe/blob/master/preview.png)
