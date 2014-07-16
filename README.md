@@ -1,6 +1,6 @@
-GameOfLIfe
+GameOfLife
 ==========
 
 Conway's Game of Life
 
-![Preview](overlinden.github.com/GameOfLife/preview.png)
+![Preview](https://raw.githubusercontent.com/overlinden/GameOfLIfe/master/preview.png)
